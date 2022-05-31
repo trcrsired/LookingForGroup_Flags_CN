@@ -5,7 +5,7 @@ local languages =
 "alpha"
 }
 
-local flags = {"|cffff0000!!!!|r","|cff00ff00α|r"}
+local flags = {"|T137008:0|t","|cff00ff00α|r"}
 
 local realms =
 {
